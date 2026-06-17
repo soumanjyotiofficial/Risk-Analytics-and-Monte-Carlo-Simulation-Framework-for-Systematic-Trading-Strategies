@@ -1,4 +1,4 @@
-# Risk-Analytics-for-Systematic-Trading-Strategies
+# Risk-Analytics for Systematic Trading Strategies
 
 
 ## Overview
